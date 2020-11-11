@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Azmain Haque
  */
 
 public interface AI {
